@@ -13,24 +13,24 @@
 - [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%205)
 
 ### **Módulo 6: Funções de Agregação** (5 exercícios) ✅
-- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%206%20-%20Fun%C3%A7%C3%B5es%20a.pdf)
-- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%206.sql)
+- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%206%20-%20Fun%C3%A7%C3%B5es%20de%20Agrega%C3%A7%C3%A3o.pdf)
+- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%206)
 
 ### **Módulo 7: Agrupamentos** (10 exercícios) ✅
-- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%207%20-%20Agrupantes.pdf)
-- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%207.sql)
+- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%207%20-%20Agrupamentos.pdf)
+- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%207)
 
 ### **Módulo 8: JOINs** (10 exercícios) ✅
-- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%208%20-%20Atua%C3%A7%C3%A3o.pdf)
-- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%208.sql)
+- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%208%20-%20Joins.pdf)
+- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%208)
 
 ### **Módulo 9: Group By + Joins** (10 exercícios) ✅
-- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%209%20-%20Gra%C3%A7a%20by.pdf)
-- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%209.sql)
+- [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%209%20-%20Group%20By%20%2B%20Joins.pdf)
+- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%209)
 
 ### **Módulo 10: Variáveis** (3 exercícios) ✅
 - [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%2010%20-%20Vari%C3%A1veis.pdf)
-- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2010.sql)
+- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2010)
 
 ---
 
