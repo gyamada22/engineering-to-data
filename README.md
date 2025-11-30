@@ -49,4 +49,14 @@
   - **Desafios LeetCode** - 5-10 exercícios diários de SQL
   - **Certificações** - SQLBolt & HackerRank para validar conhecimento
   - **Revisar Python** - Explorando Pandas para análise de dados
+ 
+  ---
+
+## 🎓 Transição de Carreira
+
+**De Engenheiro de Produção (UFRJ) para Data Scientist**
+
+Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientist**, aplicando minha base analítica e resolução de problemas em um novo contexto tecnológico.
+
+📫 **Contato:** [guilhermeyamada@poli.ufrj.br](mailto:guilhermeyamada@poli.ufrj.br)
 
