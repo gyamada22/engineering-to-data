@@ -6,6 +6,14 @@ Minha jornada de aprendizado em SQL Server - Documentando cada módulo e projeto
 ## 📊 Progresso em Tempo Real
 ![Progresso](https://progress-bar.xyz/41)
 
+## 📚 Exercícios Resolvidos
+[**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
+
+- ✅ **50+ exercícios práticos**
+- 💻 **Código SQL completo** 
+- 📊 **Do básico ao avançado**
+- 🔄 **Atualizado diariamente**
+
 ## 📚 Todos os Módulos - Progresso Diário
 
 - [x] **1. [SQL Server] Configuração do Ambiente** ✅ 27/11/2024
