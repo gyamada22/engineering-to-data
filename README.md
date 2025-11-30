@@ -1,7 +1,7 @@
 # 🚀 Documentando minha evolução prática com SQL Server
 
 ## 📊 Progresso em Tempo Real
-![Progresso](https://progress-bar.xyz/41)
+![Progresso](https://progress-bar.xyz/41/?title=Progresso&width=400)
 
 ## 📚 Exercícios Resolvidos
 [**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
