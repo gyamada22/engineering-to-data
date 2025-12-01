@@ -58,5 +58,5 @@
 
 Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientist**, aplicando minha base analítica e resolução de problemas em um novo contexto tecnológico.
 
-📫 **Contato:** [guilhermeyamada@poli.ufrj.br](mailto:guilhermeyamada@poli.ufrj.br)
+
 
