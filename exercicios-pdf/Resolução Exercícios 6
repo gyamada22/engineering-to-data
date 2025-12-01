@@ -1,3 +1,4 @@
+---Resoluçao 6
 -- Ex1
 SELECT * FROM FactSales;
 SELECT SUM(SalesQuantity) AS 'Quantidade Vendida', SUM(ReturnQuantity) AS 'Quantidade Devolvida' FROM FactSales
