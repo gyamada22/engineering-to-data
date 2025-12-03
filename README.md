@@ -1,12 +1,12 @@
 # 🚀 Documentando minha evolução prática com SQL Server
 
 ## 📊 Progresso em Tempo Real
-![Progresso](https://progress-bar.xyz/41/?title=Progresso&width=400)
+![Progresso](https://progress-bar.xyz/56/?title=Progresso&width=400)
 
 ## 📚 Exercícios Resolvidos
 [**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
 
-- ✅ **50+ exercícios práticos**
+- ✅ **85+ exercícios práticos**
 - 💻 **Código SQL completo** 
 - 📊 **Do básico ao avançado**
 - 🔄 **Atualizado diariamente**
@@ -26,8 +26,8 @@
 - [x] **11. Manipulando Strings e Datas** ✅ 30/11/2025
 - [x] **12. Funções Condicionais** ✅ 01/12/2025
 - [x] **13. SQL Views** ✅ 01/12/2025
-- [ ] **14. CRUD**
-- [ ] **15. Subqueries e CTE's**
+- [x] **14. CRUD** ✅ 02/12/2025
+- [x] **15. Subqueries e CTE's** ✅ 02/12/2025
 - [ ] **16. Loops**
 - [ ] **17. Window Functions**
 - [ ] **18. Otimização de Performance**
@@ -42,15 +42,17 @@
 - [ ] **27. Pivot Table**
 
 ## 🗓️ Próximos Passos & Metas
+**1ª Quinzena:**
+- 🎯 **Concluir** módulos 12-27 de SQL
+- 📚 **Iniciar estudos em** Git & GitHub - Fundamentos de versionamento e colaboração em projetos  
+- 🔌 **Iniciar estudos em** APIs REST com Python - Consumo de serviços web e integração de dados
 
-### **🎯 Dezembro: Consolidando SQL e Explorando Python**
-- **1ª Quinzena:** Finalizar módulos 12-27 com foco em projetos práticos
-- **2ª Quinzena:** 
-  - **Desafios LeetCode** - 5-10 exercícios diários de SQL
-  - **Certificações** - SQLBolt & HackerRank para validar conhecimento
-  - **Revisar Python** - Explorando Pandas para análise de dados
- 
-  ---
+**2ª Quinzena:**
+- 🏆 **Desafios LeetCode** - 5-10 exercícios diários de SQL
+- 📜 **Certificações Técnicas** - Validação de habilidades com SQLBolt e HackerRank
+- 🐍 **Revisar Python** - Pandas, SQLAlchemy, NumPy
+  
+---
 
 ## 🎓 Transição de Carreira
 
