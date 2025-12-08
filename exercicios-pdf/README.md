@@ -1,8 +1,8 @@
 # 📚 Exercícios Resolvidos - SQL Server
 
 ## 📊 Estatísticas
-- **Total de exercícios:** 100+
-- **Módulos com exercícios:** 5-17
+- **Total de exercícios:** 110+
+- **Módulos com exercícios:** 5-23
 - **Habilidades praticadas:** SQL Básico ao Intermediário
 - **Status:** Em desenvolvimento
 
@@ -77,21 +77,25 @@
 
 ### **Módulo 19: Regex** ✅ 
 
-### **Módulo 20: Constraints** (5 exercícios) ✅ 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 20: Constraints** ✅
+🔹 3 exercícios | Tópicos: PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, DEFAULT, NOT NULL
+- 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2020%20-%20Constraints.pdf)
+- 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2020)
 
-### **Módulo 21: Sequences** (3 exercícios) ✅ 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 21: Sequences** ✅
+🔹 3 exercícios | Tópicos: CREATE SEQUENCE, NEXT VALUE FOR, CACHE, INCREMENT BY
+- 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2021%20-%20Sequences.pdf)
+- 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2021)
 
-### **Módulo 22: Transactions** (3 exercícios) ✅ 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 22: Transactions** ✅
+🔹 2 exercícios | Tópicos: BEGIN TRANSACTION, COMMIT, ROLLBACK, SAVE TRANSACTION
+- 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2022%20-%20%20Transactions.pdf)
+- 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicio%2022)
 
-### **Módulo 23: Functions** (4 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 23: Functions** ✅
+🔹 4 exercícios | Tópicos: Scalar Functions, Table-Valued Functions, System Functions
+- 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2023%20-%20%20Functions.pdf)
+- 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2023)
 
 ### **Módulo 24: Procedures** (6 exercícios) 
 - [📋 Lista de Exercícios]()
@@ -110,5 +114,5 @@
 - [💻 Minha Resolução]()
 ---
 
-**📅 Atualizado em:** 05/12/2025  
+**📅 Atualizado em:** 08/12/2025  
 **🔨 Status:** Exercícios sendo adicionados progressivamente
