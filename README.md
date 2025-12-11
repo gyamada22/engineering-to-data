@@ -5,13 +5,28 @@
 ## 📁 Meus Repositórios de Especialização
 
 ### 🗄️ **SQL Data Engineering** (Domínio Avançado ✅)
-[![Ver Repositório](https://img.shields.io/badge/📁_Ver_110+_Exercícios-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/guilhermeyamada/sql-data-engineering)
-**110+ exercícios práticos | 27 módulos completos | Conceitos aplicados**
+
+[![SQL Repo](https://img.shields.io/badge/📁_Repositório_Principal-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering)
+[![Exercícios](https://img.shields.io/badge/🔍_110+_Exercícios-00A86B?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering#-exercícios-práticos)
+[![LeetCode](https://img.shields.io/badge/💻_LeetCode_SQL-FF6B35?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+
+**✅ 27 módulos completos | 110+ exercícios | 12+ LeetCode problems**
+
+#### 📚 **Conteúdo Abordado:**
 - **Fundamentos → Avançado**: Consultas complexas, JOINs, Subqueries, Window Functions
 - **Programabilidade**: Stored Procedures, Functions, Triggers, Transactions, CRUD
 - **Manipulação de Dados**: Strings, datas, agregações, ordenação, filtragem
 - **Estruturas Avançadas**: Views, CTEs, Table Variables, Dynamic SQL, Pivot Tables
-- **Próximos Passos**: Análise de execution plans, otimização com índices, projetos integrados
+
+#### 🎯 **Prática Aplicada:**
+- **Exercícios Estruturados**: Do básico ao avançado com cenários reais
+- **LeetCode SQL**: 12 problemas Easy resolvidos para entrevistas
+- **Projetos Integrados**: Casos de uso aplicados a Data Engineering
+
+#### 📊 **Progresso:**
+✅ **Básico & Intermediário:** 100% estudado  
+🚀 **Avançado:** Em progresso  
+📈 **Próximos:** Análise de execution plans, otimização com índices
 
 ### 📊 **Power BI & Excel Analytics** (Estudando agora)
 [![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/guilhermeyamada/powerbi-excel-analytics)
@@ -114,3 +129,4 @@ Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientis
 
 **Progresso atual:** ✅ 200+ exercícios SQL | ⏳ Power BI/Excel | ⏳ Python  
 *"Consistência > Intensidade. Documentar é aprender duas vezes."*
+
