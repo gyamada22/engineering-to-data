@@ -6,7 +6,7 @@
 
 ### 🗄️ **SQL Data Engineering** (Domínio Intermediário ✅)
 
-[![SQL Repo](https://img.shields.io/badge/📁_Repositório_Principal-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering)
+[![SQL Server](https://img.shields.io/badge/📁_Repositório_SQL_Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering/blob/main/README.md)
 [![Exercícios](https://img.shields.io/badge/🔍_110+_Exercícios-00A86B?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/exercicios-pdf/README.md)
 [![LeetCode](https://img.shields.io/badge/💻_LeetCode_SQL-FF6B35?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 
