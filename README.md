@@ -56,32 +56,33 @@
 **De Engenheiro de Produção (UFRJ) para Data Scientist**
 
 Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientist**, aplicando minha base analítica e resolução de problemas em um novo contexto tecnológico.
+## 🏆 Certificações Oficiais Microsoft Learn
 
-## 🏆 HackerRank SQL Proficiency
-
-<div align="center">
-
-### 🏅 SQL Mastery Achievements
+### 🏅 HackerRank SQL Proficiency
 **5⭐ Gold Level | 710 Points | 81% Completion Rate**
-
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://www.hackerrank.com/guilhermeyamada1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Profile-@guilhermeyamada1-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="Profile">
+  <a href="https://www.hackerrank.com/guilhermeyamada1">
+    <img src="https://img.shields.io/badge/👤_Perfil-@guilhermeyamada1-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-FFD700?style=flat-square" alt="5 Stars">
-  <img src="https://img.shields.io/badge/🏅-Gold_Level-FFD700?style=flat-square" alt="Gold Level">
-  <img src="https://img.shields.io/badge/📊-47/58-4479A1?style=flat-square" alt="Progress">
+  <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Estrelas-FFD700?style=flat-square">
+  <img src="https://img.shields.io/badge/🏅-Nível_Ouro-FFD700?style=flat-square">
+  <img src="https://img.shields.io/badge/📈-47/58_Concluídos-4479A1?style=flat-square">
 </div>
 
-### 📜 Certificates Showcase
+### 🎖️ Badges Oficiais - SQL & Azure
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 25px 0;">
+
+[![Modificar dados com T-SQL](https://img.shields.io/badge/📝_Modificar_dados_com_T--SQL-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
+[![Consultar dados com Transact-SQL](https://img.shields.io/badge/📊_Consultar_e_Modificar_Dados-Microsoft_Learn-005BA9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
+
+</div>
+<p align="center"><i>Clique para verificar as credenciais na plataforma oficial da Microsoft Learn</i></p>
+
+### 📜 Certificados de Conclusão HackerRank
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-[![SQL Intermediate](https://img.shields.io/badge/SQL-Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/942e53240162)
-[![SQL Basic](https://img.shields.io/badge/SQL-Basic-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5eb4b01629bb)
-
+  [![SQL Intermediate](https://img.shields.io/badge/SQL-Intermediário-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/942e53240162)
+  [![SQL Basic](https://img.shields.io/badge/SQL-Básico-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5eb4b01629bb)
 </div>
-
-*Click badges to view certificates*
 
 </div>
 
