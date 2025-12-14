@@ -41,8 +41,7 @@
 
 ### 🎯 **Meta Diária Atual:**
 - **10 exercícios LeetCode** (SQL + Algoritmos)
-- **2 horas Power BI/Excel** (Dashboard building)
-- **3 hora Python** (Pandas/APIs)
+- **3 horas Power BI/Excel** (Dashboard building)
 - **Documentação** no GitHub
 
 ### 📅 **Próximos Objetivos:**
