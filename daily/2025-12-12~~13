@@ -1,0 +1,71 @@
+# 📊 Log Diário - 12/12/2025 ~~ 13/12/2025
+
+## 🎯 Metas do Dia
+✅ **Concluir o Módulo 2 de Excel — Funções Mercado de Trabalho** 🎉  
+- **79/79 aulas finalizadas**
+- **⏱️ Duração total:** 15h13min
+- **Status:** ✅ Concluído
+
+✅ **Revisar e consolidar funções essenciais para análise de dados no Excel** 📊
+
+✅ **Atualizar GitHub** 🐙  
+### 🚀 O que foi feito:
+  1. **📁 Organização das pastas do Excel**
+  2. **📄 Atualização do README do Módulo 2**
+  3. **📊 Atualização do README principal (progresso geral)**
+
+---
+
+## 📚 Estudos Realizados
+
+### 📊 Excel — Funções Mercado de Trabalho
+
+- **Funções Lógicas:** `SE`, `E`, `OU`
+- **Funções Condicionais:** `CONT.SES`, `SOMASES`, `MÉDIASES`, `MÁXIMOSES`, `MÍNIMOSES`
+- **Trancamento Parcial** (linhas e colunas)
+- **Funções de Busca:** `PROCV`, `PROCH`, `PROCX`
+- **Busca Avançada:** chave composta e múltiplos critérios
+- **Tratamento de Erros:** `SEERRO`
+- **Localização de Dados:** `CORRESP`
+- **Retorno de Valores:** `ÍNDICE`, `ÍNDICE + CORRESP`
+- **Referências Dinâmicas:** `DESLOC`, `INDIRETO`
+- **Intervalos Nomeados**
+- **Funções Avançadas:** `SOMARPRODUTO`
+
+---
+
+## 💡 Principais Aprendizados — Excel (Módulo 2)
+
+### 🔧 **Lógica e Regras de Negócio**
+- Construção de regras com `SE()` simples e composto
+- Uso de `E()` e `OU()` para múltiplas condições
+- Classificação de dados em faixas
+- Aplicação prática em tabelas
+
+### 🔍 **Buscas Profissionais**
+- Limitações do `PROCV` e quando evitá-lo
+- Uso de **chave composta** para buscas avançadas
+- Substituição do `PROCV` por `PROCX`
+- Combinação de `ÍNDICE + CORRESP` para buscas dinâmicas
+
+### 🧭 **Modelos Dinâmicos**
+- Uso de `DESLOC()` para intervalos móveis
+- `INDIRETO()` para consultas entre planilhas
+- Intervalos nomeados para modelos reutilizáveis
+
+### 📐 **Boas Práticas Aplicadas**
+- Trancamento parcial correto (`$`)
+- Tratamento de erros com `SEERRO()`
+- Comparação correta de datas
+- Uso de curingas (`*`) em funções condicionais
+- Construção de planilhas flexíveis e escaláveis
+
+---
+
+## 🔄 Próximos Passos (14/12)
+- [ ] Iniciar **Exercícios Básicos de Excel**
+- [ ] Aplicar funções aprendidas em bases reais
+- [ ] Manter prática diária de SQL
+
+---
+🔥 **Streak:** 3 dias seguidos estudando
