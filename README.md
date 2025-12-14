@@ -99,14 +99,6 @@
 
 ---
 
-## 🎓 Transição de Carreira
-
-**De Engenheiro de Produção (UFRJ) para Data Scientist**
-
-Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientist**, aplicando minha base analítica e resolução de problemas em um novo contexto tecnológico.
-
----
-
 ## 📞 **Contato**
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 25px 0;">
   <a href="mailto:guilhermeyamada@poli.ufrj.br">
