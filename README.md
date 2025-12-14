@@ -20,7 +20,7 @@
 
 #### 🎯 **Prática Aplicada:**
 - **Exercícios Estruturados**: Do básico ao intermediário com cenários reais
-- **LeetCode SQL**: 12 problemas resolvidos e documentados, em progresso
+- **LeetCode SQL**: 17 problemas resolvidos e documentados, em progresso
 
 #### 📊 **Progresso:**
 ✅ **Básico & Intermediário:** 100% estudado  
