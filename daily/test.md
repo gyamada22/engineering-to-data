@@ -9,7 +9,7 @@
 - **HackerRank Gold** (5★ SQL, 48/58 desafios concluídos) 
 - **Aprendizado 100% documentado** em repositório público: [SQL Data Engineering](https://github.com/gyamada22/sql-data-engineering)
 - Domínio de: Window Functions, CTEs, Subqueries, Otimização de queries
-- [Ver perfil LeetCode](https://leetcode.com/u/gyamada22/) | [Ver repositório completo](https://github.com/gyamada22/sql-data-engineering)
+- [Ver perfil LeetCode](https://leetcode.com/u/gyamada22/) 
 
 ### 📈 **Business Intelligence**
 - **Excel Avançado** (80% concluído - 201/251 aulas)
