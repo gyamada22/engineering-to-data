@@ -58,9 +58,10 @@ Transformando dados brutos em insights acionáveis:
 - [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
 - **Gold Badge SQL** (5★, top 5% da plataforma)
 
-### Microsoft Learn
-- Modificar dados com T-SQL
-- Consultar dados com Transact-SQL
+### 🎖️ Microsoft Learn — Badges Oficiais
+- [Modificar dados com T-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
+- [Consultar dados com Transact-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
+
 
 ---
 
