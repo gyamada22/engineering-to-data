@@ -33,35 +33,6 @@
 - Revisar **Python para análise de dados**
 - Finalizar Projeto integrado **Python → SQL → Power BI → Análise**
 
-## 📁 Meus Repositórios de Especialização
-
-### 🗄️ **SQL Data Engineering** (Domínio Intermediário ✅)
-
-[![SQL Server](https://img.shields.io/badge/📁_Repositório_SQL_Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering/blob/main/README.md)
-[![Exercícios](https://img.shields.io/badge/🔍_110+_Exercícios-00A86B?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/exercicios-pdf/README.md)
-[![LeetCode](https://img.shields.io/badge/💻_LeetCode_SQL-FF6B35?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-
-**✅ 34 módulos completos | 110+ exercícios | 34+ LeetCode problems**
-
-#### 📚 **Conteúdo Abordado:**
-- **Fundamentos → Avançado**: Consultas complexas, JOINs, Subqueries, Window Functions
-- **Programabilidade**: Stored Procedures, Functions, Triggers, Transactions, CRUD
-- **Manipulação de Dados**: Strings, datas, agregações, ordenação, filtragem
-- **Estruturas Avançadas**: Views, CTEs, Table Variables, Dynamic SQL, Pivot Tables
-
-#### 🎯 **Prática Aplicada:**
-- **Exercícios Estruturados**: Do básico ao intermediário com cenários reais
-- **LeetCode SQL**: 40 problemas resolvidos e documentados, em progresso
-
-
-### 📊 **Power BI & Excel Analytics** (Excel: **201/251 aulas concluídas** (**~70%**))
-[![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/README.md)
-- Dashboards | DAX | Power Query | Modelagem de dados
-
-### 🐍 **Python for Data Science** (Próximo)
-[![Ver Repositório](https://img.shields.io/badge/🐍_Python_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/guilhermeyamada/python-data-science)
-- Pandas | APIs | Visualização | Machine Learning básico
-
 ---
 
 ## 🏆 Certificações & Perfis Técnicos
@@ -69,7 +40,7 @@
 **🧠 SQL Problem Solving — LeetCode**
 
 - 📌 +40 problemas resolvidos (SQL)
-- 📈 3.500 visualizações em soluções publicadas
+- 📈 3.600+ visualizações em soluções publicadas
 - 🔥 Streak ativo com prática diária
 - 🗂️ Soluções documentadas com explicação clara e código limpo
 
