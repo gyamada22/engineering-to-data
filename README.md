@@ -5,31 +5,33 @@
 ## 📊 **Destaques Técnicos**
 
 ### 🗄️ **SQL Specialist**
+- **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
 - **40+ problemas LeetCode resolvidos** com soluções documentadas em: [SOLUTIONS.md](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-- **3.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **3.600+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **HackerRank Gold** (5★ SQL, 48/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
 - **Aprendizado 100% documentado** em repositório público: [SQL Data Engineering](https://github.com/gyamada22/sql-data-engineering)
-- **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
 
-### 📈 **Business Intelligence**
-- **Excel Avançado** (80% concluído - 201/251 aulas)
-- **Power BI** em andamento (DAX, Power Query, Modelagem)
-- Foco em análise de dados para tomada de decisão
+
+### 📊 **Excel & Business Intelligence**
+- **Excel aplicado à análise de dados** (ETL com Power Query, modelagem com Power Pivot)
+- Criação de **medidas e KPIs em DAX (Power Pivot)**
+- Desenvolvimento de **dashboards e análises orientadas a negócio**
+- **Power BI** em andamento 
 
 ---
 
 ## 📈 Daily Practice & Rotina de Estudos
 
 ### 🎯 Meta Diária
+- **Desenvolvimento e evolução do projeto [Job Market Analysis](https://github.com/gyamada22/job-market-analysis)**
 - **3~5 exercícios LeetCode** 
-- **3+ horas de Excel / Power BI**
+- **4hr + de Estudo técnico contínuo em Data Analytics** (SQL, Excel, Power BI, Python)
 - **Documentação diária** da evolução no GitHub
 
 ### 📅 Próximos Objetivos
-- Finalizar **Excel Avançado**
-- Iniciar e concluir **Power BI**
+- Finalizar **Power BI**
 - Revisar **Python para análise de dados**
-- Projeto integrado **SQL → Power BI → Análise**
+- Finalizar Projeto integrado **Python → SQL → Power BI → Análise**
 
 ## 📁 Meus Repositórios de Especialização
 
@@ -67,7 +69,7 @@
 **🧠 SQL Problem Solving — LeetCode**
 
 - 📌 +40 problemas resolvidos (SQL)
-- 📈 Quase 2.000 visualizações em soluções publicadas
+- 📈 3.500 visualizações em soluções publicadas
 - 🔥 Streak ativo com prática diária
 - 🗂️ Soluções documentadas com explicação clara e código limpo
 
