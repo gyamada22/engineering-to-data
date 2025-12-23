@@ -9,14 +9,14 @@
 - **40+ problemas LeetCode resolvidos** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 - **3.600+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **HackerRank Gold** (5★ SQL, 48/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
-- **Aprendizado 100% documentado** em repositório público: [SQL-Data-Analytics](https://github.com/gyamada22/sql-data-engineering)
+- **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
 
 ### 📊 **Excel & Business Intelligence**
 - **Excel aplicado à análise de dados** (ETL com Power Query, modelagem com Power Pivot)
 - Criação de **medidas e KPIs em DAX (Power Pivot)**
 - Desenvolvimento de **dashboards e análises orientadas a negócio**
-- **Aprendizado 100% documentado** em repositório público: [EXCEL-Data-Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics)
+- **Aprendizado 100% documentado** em repositório público: [EXCEL Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics)
 
 ---
 
