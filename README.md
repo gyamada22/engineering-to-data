@@ -14,11 +14,20 @@
 - **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
 
-###  **Excel & Business Intelligence**
+###  **Excel**
 - **Excel aplicado à análise de dados** (ETL com Power Query, modelagem com Power Pivot)
 - Criação de **medidas e KPIs em DAX (Power Pivot)**
 - Desenvolvimento de dashboards e análises orientadas à tomada de decisão
 - **Aprendizado 100% documentado** em repositório público: [EXCEL Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics)
+
+###  **Power BI & Data Visualization**
+- ETL e transformação de dados com Power Query
+- Modelagem de dados, relacionamentos e tabelas auxiliares
+- Criação de medidas e KPIs em DAX
+- Desenvolvimento de dashboards interativos e relatórios
+- Storytelling e boas práticas de visualização
+- Aprendizado documentado por módulos: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics)
+
 
 ---
 
