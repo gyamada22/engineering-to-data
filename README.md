@@ -1,7 +1,7 @@
-# Data Analytics → Data Science
+# Portfólio — Data Analytics → Data Science
 
 > Construindo expertise técnica através de projetos públicos, prática documentada e resolução de problemas reais
-> Engenheiro de Produção (UFRJ) em transição para Data Scientist 
+> Estudante de Engenharia de Produção (UFRJ) em transição para Data Scientist 
 
 ## 📊 **Destaques Técnicos**
 
