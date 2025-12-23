@@ -21,10 +21,19 @@
 
 ---
 
-## 📈 Prática Contínua & Projetos
+## 🚀 Projetos em Destaque
+
+### 📊 Job Market Analysis (Em andamento)
+- **Tecnologias:** SQL | Power BI | Análise de Dados
+- **Descrição:** Análise do mercado de trabalho em dados para identificar skills demandadas, tendências salariais e gaps de competência.
+- **Status:** 🔄 Em desenvolvimento | [Ver repositório](https://github.com/gyamada22/job-market-analysis)
+
+---
+
+## 📈 Prática Contínua
 
 ### 🎯 Meta Diária
-- **Desenvolvimento e evolução do projeto [Job Market Analysis](https://github.com/gyamada22/job-market-analysis)**
+- **Desenvolvimento e evolução do projeto Job Market Analysis**
 - **3~5 exercícios LeetCode** 
 - **4hr + de Estudo técnico contínuo em Data Analytics** (SQL, Excel, Power BI, Python)
 - **Documentação diária** da evolução no GitHub
