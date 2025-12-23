@@ -1,6 +1,7 @@
 # Data Analytics → Data Science
 
-> Engenheiro de Produção (UFRJ) em transição para Data Scientist | Construindo expertise técnica através de prática documentada e projetos públicos
+> Construindo expertise técnica através de projetos públicos, prática documentada e resolução de problemas reais
+> Engenheiro de Produção (UFRJ) em transição para Data Scientist 
 
 ## 📊 **Destaques Técnicos**
 
