@@ -42,14 +42,13 @@ https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_
 ## 📈 **Minha Jornada de Aprendizado**
 
 ### 🎯 **Rotina Diária**
-- **3~5 problemas LeetCode** (foco em SQL e lógica)
-- **4+ horas de Excel/Power BI** 
+- **Problemas LeetCode** (foco em SQL e lógica)
+- **4+ horas de estudos** 
 - **Documentação pública** de progresso e aprendizados
 
 ### 📅 **Próximos Passos**
-1. Concluir Excel Avançado (previsão: 2 semanas)
-2. Projeto integrado: SQL → Power BI → Dashboard
-3. Retomar Python para automação de pipelines
+1. Terminar projeto integrado Job Market Analysis
+2. Retomar estudo de Python 
 
 ---
 
