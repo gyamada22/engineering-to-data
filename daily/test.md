@@ -62,7 +62,6 @@ https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_
 - **Gold Badge SQL** (5★, top 5% da plataforma)
 
 ### 🎖️ Microsoft Learn — Badges Oficiais
-- [Modificar dados com T-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
 - [Consultar dados com Transact-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
 
 
