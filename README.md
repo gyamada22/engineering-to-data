@@ -55,7 +55,7 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 - Pipeline alinhado a **boas práticas de engenharia de dados e analytics engineering**
 
 🔗 **Repositório:**  
-[https://github.com/gyamada22/Analise-Mercado-de-Dados](https://github.com/gyamada22/Analise-Mercado-de-Dados/blob/main/README.md)
+[Analise Mercado de Dados - Readme](https://github.com/gyamada22/Analise-Mercado-de-Dados/blob/main/README.md)
 
 ### Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
 
@@ -65,7 +65,7 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 - **Arquitetura:** Medallion Architecture (Bronze → Silver → Gold)
 
 🔗 **Repositório:**  
-https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md
+[Tech Layoffs - Readme](https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md)
 
 
 ---
