@@ -11,12 +11,19 @@
 - **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 - **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **HackerRank Gold** 5★ SQL: [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
-- **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
+> **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
-###  **Business Intelligence**
-- **Excel Avançado**
+### **Excel Avançado**
+- ETL com Power Query, modelagem com Power Pivot
+- Criação de **medidas e KPIs em DAX**
+- Desenvolvimento de dashboards e análises orientadas à tomada de decisão
 > **Aprendizado 100% documentado** em repositório público: [Excel Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics/blob/main/README.md)
+###  **Power BI & Data Visualization**
 - **Power BI**(DAX, Power Query, Modelagem)
+- ETL e transformação de dados com Power Query
+- Criação de medidas e KPIs em DAX
+- Desenvolvimento de dashboards interativos e relatórios
+- Storytelling e boas práticas de visualização
 > **Aprendizado 100% documentado** em repositório público: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/README.md)
 
 
@@ -27,17 +34,17 @@
 ### 📊 Análise do Mercado de Dados — Modern Data Analytics Pipeline
 
 **Foco**  
-Análise do mercado brasileiro de dados a partir de **vagas reais de recrutamento (LinkedIn)**, com extração estruturada de informações para identificar **skills demandadas, tendências de mercado e gaps de competências** entre níveis de senioridade (Júnior, Pleno e Sênior).  
-O projeto também contempla **comparação futura com dados internacionais**, visando antecipar tendências globais que podem impactar o mercado brasileiro.
+- Análise do mercado brasileiro de dados a partir de **vagas reais de recrutamento (LinkedIn)**, com extração estruturada de informações para identificar **skills demandadas, tendências de mercado e gaps de competências** entre níveis de senioridade (Júnior, Pleno e Sênior).  
+- O projeto também contempla **comparação futura com dados internacionais**, visando antecipar tendências globais que podem impactar o mercado brasileiro.
 
 **Objetivo**  
-Transformar dados não estruturados de vagas em **insights acionáveis**, apoiando decisões de carreira, planejamento de estudos e a compreensão da evolução técnica exigida pelo mercado de dados.
+- Transformar dados não estruturados de vagas em **insights acionáveis**, apoiando decisões de carreira, planejamento de estudos e a compreensão da evolução técnica exigida pelo mercado de dados.
 
 **Stack**  
-Python (ETL) | Snowflake (Data Warehouse) | SQL Avançado | dbt (Modelagem Analítica) | Power BI (Dashboards) | Docker | Git/GitHub
+- Python (ETL) | Snowflake (Data Warehouse) | SQL Avançado | dbt (Modelagem Analítica) | Power BI (Dashboards) | Docker | Git/GitHub
 
 **Arquitetura & Pipeline**  
-Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowflake → Modelagem analítica com **dbt (Medallion: Bronze, Silver, Gold)** → Dashboards interativos no Power BI → Documentação técnica
+- Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowflake → Modelagem analítica com **dbt (Medallion: Bronze, Silver, Gold)** → Dashboards interativos no Power BI → Documentação técnica
 
 **Destaques Técnicos**
 - Implementação de **Modern Data Stack**, com separação clara entre ingestão, transformação e consumo  
@@ -52,10 +59,17 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 
 ### 📊 Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
 
-- **Foco:** Construção de um pipeline completo de **Data Cleaning e ETL** a partir de dados reais e inconsistentes sobre layoffs no setor de tecnologia.
-- **Objetivo:** Transformar dados brutos em um dataset **confiável, padronizado e pronto para análises analíticas e BI**, simulando um cenário próximo ao ambiente produtivo.
-- **Stack:** Snowflake | SQL Avançado (CTEs, Window Functions, Defensive SQL)
-- **Arquitetura:** Medallion Architecture (Bronze → Silver → Gold)
+**Foco:** 
+- Construção de um pipeline completo de **Data Cleaning e ETL** a partir de dados reais e inconsistentes sobre layoffs no setor de tecnologia.
+
+**Objetivo:**
+- Transformar dados brutos em um dataset **confiável, padronizado e pronto para análises analíticas e BI**, simulando um cenário próximo ao ambiente produtivo.
+
+**Stack:**
+- Snowflake | SQL Avançado (CTEs, Window Functions, Defensive SQL)
+
+**Arquitetura:**
+- Medallion Architecture (Bronze → Silver → Gold)
 
 🔗 **Repositório:**  
 [Tech Layoffs - Readme](https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md)
@@ -87,7 +101,7 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 
 ---
 
-## 📬 **Contato & Conecte-se**
+## 📬 **Contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermeyamada@poli.ufrj.br)
