@@ -1,5 +1,5 @@
 
-# Portfólio — Data Analytics
+# Portfólio — Data & Analytics
 
 > Engenheiro de Produção (UFRJ) em transição para Data Engineer.
 > 
