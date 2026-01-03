@@ -5,6 +5,27 @@
 > 
 > Construindo expertise técnica através de prática documentada e projetos públicos
 
+
+## 🛠️ **Tech Stack**
+
+**Linguagens & Querying**  
+- SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake  
+- Python (ETL, análise): Pandas, requests, BeautifulSoup  
+
+**Ferramentas de Data Engineering**  
+- dbt (modelagem analítica) | Snowflake (Data Warehouse)  
+- Docker (conteinerização) | Git/GitHub (controle de versão)  
+
+**BI & Visualização**  
+- Power BI (DAX, Power Query, Modelagem)  
+- Excel Avançado (Power Query, Power Pivot, DAX)  
+
+**Metodologias**  
+- Medallion Architecture (Bronze-Silver-Gold)  
+- Modern Data Stack | Data Pipeline Design
+
+---
+
 ## 📊 **Destaques Técnicos**
 
 ###  **SQL Specialist**
