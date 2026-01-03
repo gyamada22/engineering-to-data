@@ -8,21 +8,16 @@
 
 ##  **Tech Stack**
 
-### **Linguagens & Querying**  
-- SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake  
-- Python (ETL, análise): Pandas, numpy
+### **Linguagens & Querying**
+- SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake
+- Python: **Bibliotecas Python** (Pandas, NumPy, Seaborn)
+### **Ferramentas de Data Engineering**
+- dbt (Modelagem analítica) | Snowflake (Data Warehouse)
+- Docker (Conteinerização) | Git/GitHub
 
-### **Ferramentas de Data Engineering**  
-- dbt (modelagem analítica) | Snowflake (Data Warehouse)  
-- Docker (conteinerização) | Git/GitHub (controle de versão)  
-
-### **BI & Visualização**  
-- Power BI (DAX, Dashboards, Modelagem)  
-- Excel Avançado (Power Query, Power Pivot, DAX)  
-
-### **Metodologias**  
-- Medallion Architecture (Bronze-Silver-Gold)  
-- Modern Data Stack | Data Pipeline Design
+### **BI & Visualização**
+- Power BI: Analisar dados e gerar insights para suportar decisões estratégicas
+- Excel Avançado: Power Query, Power Pivot, DAX
 
 ---
 
