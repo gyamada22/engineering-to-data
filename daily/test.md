@@ -7,11 +7,11 @@
 ## 📊 **Destaques Técnicos**
 
 ###  **SQL Specialist**
-- **60+ problemas LeetCode resolvidos** com soluções documentadas em: [SOLUTIONS.md](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-- **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
-- **HackerRank Gold** (5★ SQL, 57/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
-- **Aprendizado 100% documentado** em repositório público: [SQL Data Engineering](https://github.com/gyamada22/sql-data-engineering)
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
+- **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+- **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **HackerRank Gold** 5★ SQL: [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
+- **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
 ###  **Business Intelligence**
 - **Excel Avançado**
