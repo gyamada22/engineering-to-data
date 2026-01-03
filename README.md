@@ -29,7 +29,6 @@
 ## 📊 **Destaques Técnicos**
 
 ###  **SQL Specialist**
-- **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
 - **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode
 - **HackerRank Gold** 5★ SQL: [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
@@ -38,16 +37,9 @@
 > **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
 ### **Excel Avançado**
-- ETL com Power Query, modelagem com Power Pivot
-- Criação de **medidas e KPIs em DAX**
-- Desenvolvimento de dashboards e análises orientadas à tomada de decisão
 > **Aprendizado 100% documentado** em repositório público: [Excel Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics/blob/main/README.md)
 ###  **Power BI & Data Visualization**
-- **Power BI**(DAX, Power Query, Modelagem)
-- ETL e transformação de dados com Power Query
-- Criação de medidas e KPIs em DAX
-- Desenvolvimento de dashboards interativos e relatórios
-- Storytelling e boas práticas de visualização
+- **Power BI**
 > **Aprendizado 100% documentado** em repositório público: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/README.md)
 
 
