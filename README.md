@@ -108,6 +108,12 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 - [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
 - **Gold Badge SQL** (5★, top 5% da plataforma)
 
+### IBM Data Fundamentals — IBM SkillsBuild
+<a href="https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url" target="_blank">
+ <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" width="150" alt="IBM Data Fundamentals Badge">
+</a>
+
+
 ### 🎖️ Microsoft Learn — Badges Oficiais
 - Microsoft Learn — Query and Modify Data with Transact-SQL ([Learning Path completo](https://learn.microsoft.com/api/achievements/share/en-us/GuilhermeYamada-9069/82M4B5MW?sharingId=A87626533FFE893C))
 
