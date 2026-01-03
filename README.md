@@ -85,7 +85,7 @@
 ### HackerRank
 - [SQL (Intermediate)](https://www.hackerrank.com/certificates/942e53240162)
 - [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
-- **Gold Badge SQL** (5★, top 5% da plataforma)
+- **Gold Badge SQL** - 5★ 57/58 Challenges solved
 
 ### IBM Data Fundamentals 
 
